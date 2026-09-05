@@ -108,7 +108,7 @@ nav.wrap{
 }
 @media (max-width:900px){
   .hero-grid{grid-template-columns:1fr;gap:40px;}
-  .hero-photo{order:-1;max-width:260px;margin:0 auto;}
+  .hero-photo{max-width:260px;margin:0 auto;}
 }
 .hero-content{max-width:640px;}
 
