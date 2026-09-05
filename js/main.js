@@ -6,7 +6,7 @@ document.getElementById('year').textContent = new Date().getFullYear();
 const terminalLines = [
   "$ connect --target maoudo-4",
   "handshake établi ✓",
-  "utilisateur : Maoudo DIAW",
+  "proprio: Maoudo DIAW",
   "statut : étudiant réseaux → futur analyste SOC",
   "innovation: fondateur de la plateforme Intelligux"
 ];
