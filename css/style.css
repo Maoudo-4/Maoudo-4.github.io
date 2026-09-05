@@ -212,7 +212,12 @@ h1.hero-title .accent{color:var(--accent);}
 }
 
 /* ---------- Photo scan-frame effect ---------- */
-.hero-photo{display:flex;justify-content:center;}
+.hero-photo{
+  display:flex;
+  justify-content:center;
+  align-self:center;
+  margin-top:40px;
+}
 .scan-frame{
   position:relative;
   width:100%;
