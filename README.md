@@ -27,10 +27,10 @@ portfolio-pro/
 
 ## Déployer sur GitHub Pages
 
-1. Crée un repo nommé exactement `<ton-pseudo>.github.io`
+1. Crée un repo nommé exactement `Maoudo-4.github.io`
 2. Mets tout le contenu de ce dossier à la racine du repo
 3. `git init && git add . && git commit -m "Portfolio v1" && git branch -M main`
 4. `git remote add origin https://github.com/<ton-pseudo>/<ton-pseudo>.github.io.git`
 5. `git push -u origin main`
 
-Le site sera en ligne à `https://<ton-pseudo>.github.io` en quelques minutes.
+Le site sera en ligne à `https://Maoudo-4.github.io` en quelques minutes.
